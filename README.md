@@ -2,7 +2,7 @@ Olá Mundo,
 Bem vinde ao meu GitHub, me chamo Giovanna Melo 👋
 ##
 
-- 🌱 I’m currently learning Java in Generation Brasil
+- 🌱 I’m currently learning Java in [Generation Brasil](https://brazil.generation.org)
 - 😄 Pronouns: She/Her
 
 ##
