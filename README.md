@@ -1,5 +1,4 @@
-Olá Mundo,
-Bem vindo ao meu GitHub, me chamo Giovanna Melo 👋
+Seja Bem vindo ao meu GitHub👋
 ##
 
 - 🌱 I majored in java in [Generation Brasil](https://brazil.generation.org)
